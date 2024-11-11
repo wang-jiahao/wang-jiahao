@@ -19,12 +19,12 @@ int main(){
 ##  3.HTML (A little)
 ```html
 <div style="text-align:center">
-  <font style="color:red">我不会 HTML 呜呜呜... 浇浇我</font>
+  <font style="color:red">我不会 HTML 嘻嘻</font>
 </div>
 
-<center>简单的文字居中也可以这样</center>
+<center>居中</center>
 
-<u>我差点忘了还有下划线这东西...</u>
+<u>下划线...</u>
 ```
 ## 4.LaTeX (A little)
 ```latex
