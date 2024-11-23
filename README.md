@@ -24,7 +24,7 @@ int main(){
 
 <center>居中</center>
 
-<u>下划线...</u>
+<u>下划线</u>
 ```
 ## 4.LaTeX (A little)
 ```latex
@@ -78,11 +78,11 @@ $$
 - [ ] Rust
 
 # Courses being learned
-- [ ] CS61A (finish project ants)
+- [ ] CS61A (finish lab8)
 - [ ] CS61B
 - [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
-- [ ] CS106L (Part 4.3 Functions and Algorithms)
-- [ ] CS188
+- [ ] CS106L (Part 5.3 Special Member Function)
+- [ ] CS188 (Project 4 tracking)
 - [ ] Algorithms I & II
 - [ ] Coursera: Machine Learning
 - [ ] CS229
