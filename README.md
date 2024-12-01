@@ -31,7 +31,7 @@ int main(){
 $$
 %\usepackage{unicode-math}
 \displaystyle \ointctrclockwise\mathcal{D}[x(t)]
-\sqrt{\frac{\displaystyle3\uppi^2-\sum_{q=0}^{\infty}(z+\hat L)^{q}
+\sqrt{\frac{\displaystyle3\pi^2-\sum_{q=0}^{\infty}(z+\hat L)^{q}
 \exp(\symrm{i}q^2 \hbar x)}{\displaystyle (\symsfup{Tr}\symbfcal{A})
 \left(\symbf\Lambda_{j_1j_2}^{i_1i_2}\Gamma_{i_1i_2}^{j_1j_2}
 \hookrightarrow\vec D\cdot \symbf P \right)}}
@@ -42,8 +42,7 @@ $$
 $$
 ```
 $$
-%\usepackage{unicode-math}
-\sqrt{\frac{\displaystyle3\uppi^2-\sum_{q=0}^{\infty}(z+\hat L)^{q}
+\sqrt{\frac{\displaystyle3\pi^2-\sum_{q=0}^{\infty}(z+\hat L)^{q}
 \exp(\symrm{i}q^2 \hbar x)}{\displaystyle (\symsfup{Tr}\symbfcal{A})
 \left(\symbf\Lambda_{j_1j_2}^{i_1i_2}\Gamma_{i_1i_2}^{j_1j_2}
 \hookrightarrow\vec D\cdot \symbf P \right)}}
@@ -52,6 +51,7 @@ $$
 \frac{\partial_\mu T_{\mu\nu}}{2}\right\rangle}}_{\mathrm{K}_3
 \mathrm{Fe}(\mathrm{CN})_6} ,\forall z \in \mathbb{R}
 $$
+
 ## 5.Markdown
 ```
 > Talk is cheap. Show me the code. [^1]
@@ -78,10 +78,10 @@ $$
 - [ ] Rust
 
 # Courses being learned
-- [ ] CS61A (finish lab8)
+- [x] CS61A 
 - [ ] CS61B
 - [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
-- [ ] CS106L (Part 5.3 Special Member Function)
+- [ ] CS106L (Part 6.2 Multithreading)
 - [ ] CS188 (Project 4 tracking)
 - [ ] Algorithms I & II
 - [ ] Coursera: Machine Learning
