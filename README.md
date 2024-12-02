@@ -2,31 +2,18 @@ I'm a second-year undergraduate student from [School of Intelligent Software and
 
 **My research interest includes machine learning, deep learning , hotspots detection for chip layout design.**
 
+# Courses being learned
+- [x] CS61A 
+- [ ] CS61B
+- [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
+- [x] CS106L
+- [ ] CS188 (Project 5 Machine learning)
+- [ ] Algorithms I & II
+- [ ] Coursera: Machine Learning
+- [ ] CS229
+
 # Skills
-## 1.rap
-~~I can sing, dance, rap and basketball.~~ 😆
-## 2.Programming (A little)
-```````c++
-#include <iosream>
-
-using namespace std;
-
-int main(){
-	cout << "hello world!";
-	return 0;
-}
-```````
-##  3.HTML (A little)
-```html
-<div style="text-align:center">
-  <font style="color:red">我不会 HTML 嘻嘻</font>
-</div>
-
-<center>居中</center>
-
-<u>下划线</u>
-```
-## 4.LaTeX (A little)
+## 1.LaTeX (A little)
 ```latex
 $$
 %\usepackage{unicode-math}
@@ -40,6 +27,7 @@ $$
 \frac{\partial_\mu T_{\mu\nu}}{2}\right\rangle}}_{\mathrm{K}_3
 \mathrm{Fe}(\mathrm{CN})_6} ,\forall z \in \mathbb{R}
 $$
+下面是用上述LaTeX编写的数学公式
 ```
 $$
 \sqrt{\frac{\displaystyle3\pi^2-\sum_{q=0}^{\infty}(z+\hat L)^{q}
@@ -51,6 +39,30 @@ $$
 \frac{\partial_\mu T_{\mu\nu}}{2}\right\rangle}}_{\mathrm{K}_3
 \mathrm{Fe}(\mathrm{CN})_6} ,\forall z \in \mathbb{R}
 $$
+## 2.rap
+~~I can sing, dance, rap and basketball.~~ 😆
+## 3.Programming (A little)
+```````c++
+#include <iosream>
+
+using namespace std;
+
+int main(){
+	cout << "hello world!";
+	return 0;
+}
+```````
+##  4.HTML (A little)
+```html
+<div style="text-align:center">
+  <font style="color:red">我不会 HTML 嘻嘻</font>
+</div>
+
+<center>居中</center>
+
+<u>下划线</u>
+```
+
 
 ## 5.Markdown
 ```
@@ -65,6 +77,8 @@ $$
 - [ ] Linux
 - [x] Ubuntu
 - [x] Markdown
+- [x] C++
+- [x] python
 - [ ] Vim
 - [ ] CMake
 - [ ] GNU Make
@@ -77,16 +91,8 @@ $$
 - [ ] Go
 - [ ] Rust
 
-# Courses being learned
-- [x] CS61A 
-- [ ] CS61B
-- [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
-- [ ] CS106L (Part 6.2 Multithreading)
-- [ ] CS188 (Project 4 tracking)
-- [ ] Algorithms I & II
-- [ ] Coursera: Machine Learning
-- [ ] CS229
-      
+
+​      
 
 [Email](mailto:jiahaowang@smail.nju.edu.cn) / [Github](https://github.com/wang-jiahao) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/wwjjjhhhh?type=blog)
 
