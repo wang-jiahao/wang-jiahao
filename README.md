@@ -4,7 +4,7 @@ My research interest includes **machine learning**, **deep learning** , hotspots
 
 # Courses being learned
 - [x] CS61A 
-- [ ] CS61B
+- [ ] CS61B (project0: 2048)
 - [ ] MIT-Missing-Semester (Part2 Shell Tools and Scripting)
 - [x] CS106L
 - [ ] CS188 (Project 5 Machine learning)
@@ -12,4 +12,4 @@ My research interest includes **machine learning**, **deep learning** , hotspots
 - [ ] Coursera: Machine Learning
 - [ ] CS229
 
-[Email](mailto:jiahaowang@smail.nju.edu.cn) / [Github](https://github.com/wang-jiahao) / [Wechat](../images/wechat.jpg) / [Blog](https://blog.csdn.net/wwjjjhhhh?type=blog)
+[Email](mailto:jiahaowang@smail.nju.edu.cn) / [Github](https://github.com/wang-jiahao) / [Wechat](https://github.com/wang-jiahao/wang-jiahao.github.io/blob/master/images/wechat.jpg) / [Blog](https://blog.csdn.net/wwjjjhhhh?type=blog)
