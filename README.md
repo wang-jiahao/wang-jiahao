@@ -12,4 +12,4 @@ My research interest includes **machine learning**, **deep learning** , hotspots
 - [ ] Coursera: Machine Learning
 - [ ] CS229
 
-[Email](mailto:jiahaowang@smail.nju.edu.cn) / [Github](https://github.com/wang-jiahao) / [Wechat](https://github.com/wang-jiahao/wang-jiahao.github.io/blob/master/images/wechat.jpg) / [Blog](https://blog.csdn.net/wwjjjhhhh?type=blog)
+[Email](mailto:jiahaowang@smail.nju.edu.cn) / [Academic Pages](https://wang-jiahao.github.io) / [Wechat](https://github.com/wang-jiahao/wang-jiahao.github.io/blob/master/images/wechat.jpg) / [Blog](https://blog.csdn.net/wwjjjhhhh?type=blog)
