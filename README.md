@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%23FFA500?link=https%3A%2F%2Fwang-jiahao.github.io%2F)
+<a href="https://wang-jiahao.github.io/"><img src="https://img.shields.io/badge/Website-个人网站-#00FFFF" /></a>&emsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-jiahao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: jiahaowang@smail.nju.edu.cn
