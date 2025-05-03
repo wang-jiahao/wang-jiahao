@@ -1,4 +1,4 @@
-<a href="https://wang-jiahao.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Zackaria's+Corner;惟日孜孜，无敢逸豫" alt="Typing SVG" /></a>
+<!--<a href="https://wang-jiahao.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Zackaria's+Corner;惟日孜孜，无敢逸豫" alt="Typing SVG" /></a>-->
 
 <a href="https://wang-jiahao.github.io/"><img src="https://img.shields.io/badge/Website-博客-00FFFF" /></a>&emsp;
 <a href="https://blog.csdn.net/wwjjjhhhh"><img src="https://img.shields.io/badge/CSDN-社区-FFA62F" /></a>&emsp;
