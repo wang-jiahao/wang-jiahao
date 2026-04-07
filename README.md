@@ -18,15 +18,56 @@
       <b>OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning</b><br>
       <!-- 使用 <sup>*</sup> 来标注共一，并使用 et al. 缩略 -->
       <b>Jiahao Wang</b><sup>*</sup>, An Ping<sup>*</sup>, Yanghai Wang<sup>*</sup>, Yuanxing Zhang, Shihao Li, et al.<br>
-      <i>ACM Multimedia (ACMMM), 2026</i> <br>
+      <i>ACM Multimedia (ACMMM), 2026, Under Review</i> <br>
+      <p style="font-size: 0.85em; color: #586069; margin-top: 8px;">
+        The paper will be open-sourced as soon as possible.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="35%">
+      <!-- 建议：在这里放置论文的 Pipeline 图或效果对比图 -->
+      <!-- 如果你还没有图，可以先用下面这张占位图，后续替换为自己仓库里的图片链接 -->
+      <img src="Figure/OmniAgent.png" width="100%">
+    </td>
+    <td width="65%">
+      <b>AdaptiveOmniAgent: Dynamic Routing for Audio-Visual Understanding</b><br>
+      <!-- 使用 <sup>*</sup> 来标注共一，并使用 et al. 缩略 -->
+      Jiafu Tang<sup>*</sup>, Haowen Chen<sup>*</sup>, Yanghai Wang, Yue Ding, <b>Jiahao Wang</b>, et al.<br>
+      <i>ECCV, 2026, Under Review</i> <br>
+      <p style="font-size: 0.85em; color: #586069; margin-top: 8px;">
+        The paper will be open-sourced as soon as possible.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="35%">
+      <!-- 建议：在这里放置论文的 Pipeline 图或效果对比图 -->
+      <!-- 如果你还没有图，可以先用下面这张占位图，后续替换为自己仓库里的图片链接 -->
+      <img src="Figure/avbench.svg" width="100%">
+    </td>
+    <td width="65%">
+      <b>T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation</b><br>
+      <!-- 使用 <sup>*</sup> 来标注共一，并使用 et al. 缩略 -->
+      Zhe Cao<sup>*</sup>, Tao Wang<sup>*</sup>, Jiaming Wang<sup>*</sup>, Yanghai Wang<sup>*</sup>, Yuanxing Zhang, <b>Jiahao Wang</b> et al.<br>
+      <i>CVPR 2026 Workshop VGBE</i> <br>
       <!-- 按钮链接区域 -->
-      <a href="你的PDF链接">
+      <a href="https://arxiv.org/pdf/2512.21094">
         <img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper">
       </a>
-      <a href="你的代码仓库链接">
+      <a href="https://github.com/NJU-LINK/T2AV-Compass">
         <img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Code">
       </a>
-      <a href="你的项目主页链接">
+      <a href="https://huggingface.co/datasets/NJU-LINK/T2AV-Compass">
+          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models%20%26%20Data-FFD21E?style=flat-square">
+      </a>
+      <a href="https://nju-link.github.io/T2AV-Compass/">
         <img src="https://img.shields.io/badge/Project-Website-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
       </a>
     </td>
