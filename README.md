@@ -12,13 +12,12 @@
     <td width="35%">
       <!-- 建议：在这里放置论文的 Pipeline 图或效果对比图 -->
       <!-- 如果你还没有图，可以先用下面这张占位图，后续替换为自己仓库里的图片链接 -->
-      <img src="https://via.placeholder.com/600x350.png?text=OmniCap-IF+Teaser" width="100%">
+      <img src="Figure/OmniCap-IF.svg?text=OmniCap-IF+Teaser" width="100%">
     </td>
     <td width="65%">
       <b>OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning</b><br>
       <!-- 使用 <sup>*</sup> 来标注共一，并使用 et al. 缩略 -->
       <b>Jiahao Wang</b><sup>*</sup>, An Ping<sup>*</sup>, Yanghai Wang<sup>*</sup>, Yuanxing Zhang, Shihao Li, et al.<br>
-      <small><sup>*</sup> Equal Contribution</small><br>
       <i>ACM Multimedia (ACMMM), 2026</i> <br>
       <!-- 按钮链接区域 -->
       <a href="你的PDF链接">
@@ -33,3 +32,8 @@
     </td>
   </tr>
 </table>
+
+<!-- 这里是脚注部分 -->
+<p align="right">
+  <small><sup>*</sup> Equal Contribution</small>
+</p>
