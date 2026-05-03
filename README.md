@@ -38,7 +38,7 @@
       <b>T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation</b><br>
       <!-- 使用 <sup>*</sup> 来标注共一，并使用 et al. 缩略 -->
       Zhe Cao<sup>*</sup>, Tao Wang<sup>*</sup>, Jiaming Wang<sup>*</sup>, Yanghai Wang<sup>*</sup>, Yuanxing Zhang, <b>Jiahao Wang</b> et al.<br>
-      <i>ICML, 2026, Under Review</i> <br>
+      <i>ICML, 2026</i> <br>
       <!-- 按钮链接区域 -->
       <a href="https://arxiv.org/pdf/2512.21094">
         <img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Paper">
